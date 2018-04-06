@@ -1,0 +1,21 @@
+body{
+			margin: 0;
+		}
+		img{
+			max-width: 100%;
+			vertical-align: top;
+		}
+		
+		#clasica{
+			background-image: url("clasica.jpg");
+		}
+
+		.responsive{
+
+				display: none;
+		}
+
+		.no_responsive{
+
+			display: block;
+		}
